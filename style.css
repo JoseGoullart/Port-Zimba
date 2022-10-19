@@ -1,0 +1,92 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+
+button{
+    color: white;
+    background-color: white;
+}
+
+.navbar-toggler-icon{
+    background-color:rgba(255, 187, 0, 0.986);
+    border-radius: 50%;
+    border: 1px solid white;
+}
+
+.navbar-toggler-icon:hover{
+    background-color: black;
+    border: 2px solid yellow;
+}
+
+a{
+    list-style: none;
+    text-decoration: none;
+    color: white;
+}
+
+a:hover{
+    color:rgba(255, 187, 0, 0.986);
+}
+
+h1, h2, h3, h4{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body{
+    background-color: rgba(0, 0, 0, 0.999);
+}
+
+
+
+
+/*HEADER*/
+
+
+.color-nav{
+    color: black;
+}
+
+
+.navbar-custom{
+    background-color: rgba(0, 0, 0, 0.999);
+    width: 100%;   
+    position: fixed;
+    z-index: 1;
+}
+
+.color-h{
+    background-color: rgba(255, 187, 0, 0.986);
+    
+}
+
+/*HEADER*/
+
+#section-1{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#main-1{
+    background-color: rgba(0, 0, 0, 0.999);
+    color: white;
+}
+
+#section-2{
+    background-color: rgba(255, 187, 0, 0.999);
+    color: rgba(0, 0, 0, 0.836);
+}
+
+#section-3{
+    background-color: rgba(0, 0, 0, 0.999);
+    color: rgba(255, 187, 0, 0.986);
+}
+
+#section-4{
+    background-color: rgba(255, 187, 0, 0.999);
+    color: rgba(0, 0, 0, 0.837);
+
+}
+
